@@ -1,2 +1,2 @@
 # TrabajosRealizados
-Trabajos realizados de diferentes manterias
+Trabajos realizados de diferentes materias.
